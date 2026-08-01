@@ -1,0 +1,33 @@
+<!-- EXPERIENCE 1 (INTERNSHIP OR ACADEMIC PROJECT) -->
+        <!--<div class="experience-item">
+          <!- ENTER ROLE / TITLE HERE (e.g., Web Development Intern) -->
+          <!--<h3 class="experience-title"> DATA</h3>
+
+          <!-ENTER ORGANIZATION / COMPANY / COLLEGE NAME HERE -->
+          <!--<p class="experience-company">
+            Organization / Company / College Name
+          </p>
+
+          <!-- ENTER DURATION (e.g., Jun 2025 – Present) -->
+          <!--<p class="experience-duration">
+            Duration: Start Date – End Date (or "Present")
+          </p>
+
+          <!-- ENTER 2–4 BULLET POINTS ABOUT WHAT YOU DO / DID -->
+          <!--<ul class="experience-details">
+            <li>
+            
+              <!-- ENTER YOUR RESPONSIBILITY / ACHIEVEMENT HERE -->
+            <!---->  Worked on building and maintaining web pages using HTML, CSS, and JavaScript.
+           <!--- </li>
+            <li> --
+              <!- ENTER YOUR RESPONSIBILITY / ACHIEVEMENT HERE -->
+              Collaborated with team members on small features and bug fixes.
+            </li>
+            <li>
+              <!-- ENTER YOUR RESPONSIBILITY / ACHIEVEMENT HERE -->
+              Learned about version control using Git and GitHub.
+            </li>
+          </ul>
+        </div> 
+        <!-- ADD MORE experience-item BLOCKS IF YOU HAVE MULTIPLE ENTRIES -->
